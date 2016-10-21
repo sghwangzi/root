@@ -1,0 +1,2 @@
+# root
+study everything
